@@ -32,7 +32,7 @@ This project analyzes housing data to provide insights and predictions about hou
    ```
 
 ## Data Source
-The project uses housing market data from the [House Sales in King County, USA on Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction).
+The project uses housing market data from the following dataset: [House Sales in King County, USA on Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
 
 ## Analysis Steps
 1. Data cleaning and preprocessing
